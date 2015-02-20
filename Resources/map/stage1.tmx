@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="150" height="13" tilewidth="24" tileheight="24">
+ <tileset firstgid="1" name="terrain" tilewidth="24" tileheight="24">
+  <image source="terrain.png" width="384" height="24"/>
+ </tileset>
+ <tileset firstgid="17" name="object" tilewidth="24" tileheight="24">
+  <image source="object.png" width="120" height="24"/>
+ </tileset>
+ <layer name="Terrain" width="150" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt2csKgCAUhGHN7rf3f9wmKJAWGdHpxv/BgCiCi9nICc65XCmUEK29km32SqVKnNVKo7RKp/TKoIzLPYucfUvqHgAAAPAV/ukH4HfW/xZwlfgfv3d2pHf0E7NUb+gVLNArWKBXsECvkGI5X7trRsh88H0mtMIC7Q==
+  </data>
+ </layer>
+ <layer name="Object" width="150" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt1LEJACAMRUFncP9hbSWoaLAQuYN0KR+/FHhDDbf7Dyu64rbYlK7IGPUwamvVja7ozVqwV2Tt7I+uOKEBAACA/zVAzwMH
+  </data>
+ </layer>
+</map>
